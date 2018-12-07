@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Localization Example</string>
+    <string name="hello">Привет</string>
+    <string name="presshere">Нажмите здесь</string>
+    <string name="welcome">Добро пожаловать</string>
+</resources>
